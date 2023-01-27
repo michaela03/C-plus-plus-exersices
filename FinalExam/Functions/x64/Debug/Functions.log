@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+C:\Plovdiv_University\Software_Engineering_1_year\C++_Exersice\FinalExam\Functions\Functions.cpp(77): warning C4715: 'FunctionC': not all control paths return a value
+C:\Plovdiv_University\Software_Engineering_1_year\C++_Exersice\FinalExam\Functions\Functions.cpp(103): warning C4715: 'FunctionD': not all control paths return a value
+  Functions.vcxproj -> C:\Plovdiv_University\Software_Engineering_1_year\C++_Exersice\FinalExam\Functions\x64\Debug\Functions.exe
